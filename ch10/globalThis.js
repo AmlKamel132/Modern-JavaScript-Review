@@ -1,0 +1,4 @@
+/**
+ * refer to global object 
+ */
+
